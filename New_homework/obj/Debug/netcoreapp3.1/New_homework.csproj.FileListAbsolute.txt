@@ -1,0 +1,14 @@
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/bin/Debug/netcoreapp3.1/New_homework
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/bin/Debug/netcoreapp3.1/New_homework.deps.json
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/bin/Debug/netcoreapp3.1/New_homework.runtimeconfig.json
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/bin/Debug/netcoreapp3.1/New_homework.runtimeconfig.dev.json
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/bin/Debug/netcoreapp3.1/New_homework.dll
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/bin/Debug/netcoreapp3.1/New_homework.pdb
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/obj/Debug/netcoreapp3.1/New_homework.csproj.AssemblyReference.cache
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/obj/Debug/netcoreapp3.1/New_homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/obj/Debug/netcoreapp3.1/New_homework.AssemblyInfoInputs.cache
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/obj/Debug/netcoreapp3.1/New_homework.AssemblyInfo.cs
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/obj/Debug/netcoreapp3.1/New_homework.csproj.CoreCompileInputs.cache
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/obj/Debug/netcoreapp3.1/New_homework.dll
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/obj/Debug/netcoreapp3.1/New_homework.pdb
+/Users/giorgishushanashvili/Projects/New_homework/New_homework/obj/Debug/netcoreapp3.1/New_homework.genruntimeconfig.cache
