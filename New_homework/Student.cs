@@ -25,7 +25,7 @@ namespace New_homework
                     Console.WriteLine("you chose english");
                     break;
                 case 3:
-                    Console.WriteLine("you chose another language");
+                    Console.WriteLine("you chose another subject");
                     break;
 
             }
@@ -38,7 +38,7 @@ namespace New_homework
 
             if ((result) < 4)
             {
-                Console.WriteLine($"years to finish is {result} years");
+                Console.WriteLine($"years to finish is {4-result} years");
             }
             else { Console.WriteLine("already graduated"); }
 
