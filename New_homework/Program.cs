@@ -21,13 +21,14 @@ namespace New_homework
             student1.Subject();
 
             Teacher teacher1 = new Teacher();
-            Console.WriteLine("enter the name: ");
+            Console.WriteLine("enter teacher's name: ");
             teacher1.Name = Console.ReadLine();
 
 
             Console.WriteLine("now choose the subject, 0 means math, 1 - chemistry, 2 - english,3 - anything else ");
             teacher1.m = Convert.ToInt32(Console.ReadLine());
             teacher1.Result();
+            Console.ReadLine();
         }
     }
 }
