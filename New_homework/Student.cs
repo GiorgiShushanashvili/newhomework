@@ -40,7 +40,8 @@ namespace New_homework
             {
                 Console.WriteLine($"years to finish is {4-result} years");
             }
-            else { Console.WriteLine("already graduated"); }
+            else
+            { Console.WriteLine("already graduated"); }
 
         }
     }
