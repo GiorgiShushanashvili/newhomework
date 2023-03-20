@@ -26,7 +26,7 @@ namespace New_homework
                     Console.WriteLine("my fovourite subject is english");
                     break;
                 case 3:
-                    Console.WriteLine("you chose another language, teacher isnt competent");
+                    Console.WriteLine("you chose another subject, teacher isnt competent");
                     break;
             }
         }
